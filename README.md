@@ -1,4 +1,4 @@
-## Conference Management bruno e naty
+## Conference Management
 Overview about the architecture of solution in [screen](https://www.loom.com/share/0256e2553f0846b5a2f62062b556bf6f)
 
 ### Prerequisites
